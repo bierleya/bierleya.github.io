@@ -1,0 +1,99 @@
+body {
+    background-color: aliceblue;
+}
+
+.static {
+    position: absolute;
+    margin-left: 2.5%
+}
+
+
+hr {
+    height: 3px;
+    background-color: mediumturquoise;
+    border: none;
+}
+
+div {
+    font-family: "Arial", sans-serif;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.images {
+    margin: auto;
+}
+
+figure {
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: dimgray;
+}
+
+.train {
+    height: 300px;
+    width: 400px;
+}
+
+.winter {
+    height: 350px;
+    width: 360px;
+}
+
+.valley {
+    height: 300px;
+    width: 500px;
+}
+
+.cs {
+    float: right;
+    height: 250px;
+    width: 375px;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;
+}
+
+h4 {
+    text-align: left;
+    font-size: 30px;
+}
+
+p {
+    text-align: left;
+    font-size: 18px;
+    color: dimgray;
+}
+
+.images2 {
+    margin: auto;
+}
+
+.final {
+    height: 310px;
+    width: 475px;
+}
+
+a {
+    background-color: mediumturquoise; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #4CAF50;
+}

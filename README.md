@@ -1,4 +1,4 @@
 # personal-website
-Simple website with some information about me. Runs the best in Google Chrome.
+Simple website with some information about me. 
 
 https://bierleya.github.io
